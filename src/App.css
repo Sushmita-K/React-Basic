@@ -1,0 +1,45 @@
+
+
+.Form1{
+  display: block;
+}
+.Form1{
+  padding: 20px;
+}
+.labeltext{
+  display: block;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 500;
+}
+output{
+  padding-left: 35px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.text1{
+  margin-left:40px;
+  border: 1px solid purple;
+  padding-left: 10px ! important;
+  padding: 10px;
+}
+.text2{
+  margin-left:16px;
+  border: 1px solid purple;
+  padding-left: 10px ! important;
+  padding: 10px;
+}
+.labeltext span{
+  margin-left:43px;
+}
+.text4{
+  margin-left:52px;
+  border: 1px solid purple;
+  padding-left: 10px ! important;
+  padding: 10px;
+}
+.output{
+  margin-left:20px;
+  font-size: 20px;
+  font-weight: 500;
+}
